@@ -11,4 +11,5 @@
         echo "<p> $str_hello PHPスクリプトを表示してみたよ</p>";
         ?>
 </body>
+</head>
 </html>
